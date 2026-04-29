@@ -1,0 +1,22 @@
+text,sentiment
+I love this product,positive
+I absolutely love this,positive
+This is amazing,positive
+Very good experience,positive
+I like this app,positive
+Fantastic service,positive
+Best product ever,positive
+
+I hate this product,negative
+This is terrible,negative
+Worst experience ever,negative
+Very bad service,negative
+I dislike this app,negative
+Awful product,negative
+Not good at all,negative
+
+It is okay,neutral
+Nothing special,neutral
+Average experience,neutral
+Not bad not good,neutral
+It works fine,neutral
